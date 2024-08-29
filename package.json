@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@dcloudio/uni-app": "3.0.0-4020420240722002"
+  },
+  "devDependencies": {
+    "@dcloudio/types": "^3.4.12",
+    "typescript": "^5.5.4",
+    "@uni-helper/uni-app-types": "1.0.0-alpha.3",
+    "vue-tsc": "2.0.28",
+    "vue": "3.4.38"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
